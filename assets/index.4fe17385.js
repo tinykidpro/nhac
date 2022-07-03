@@ -926,7 +926,7 @@ const ie = () => {
                     children: "Hoa\u0300i Thu\u031Bo\u031Bng"
                 }), e("h3", {
                     className: "subTitle",
-                    children: "Trang web n\xE0y l\xE0 d\xE0nh ri\xEAng cho em "
+                    children: "Trang web n\xE0y \u0111\xE2yu\u031Bo\u031Bc ta\u0323o bo\u031B\u0303i thuong.eopi"
                 }), e("div", {
                     className: "subPassword",
                     children: "Mật khẩu"
