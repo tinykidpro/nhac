@@ -897,7 +897,7 @@ const ie = () => {
         const [h, i] = c.exports.useState(""), [v, s] = c.exports.useState(!1), [n, t] = c.exports.useState(""), m = w => {
             i(w.target.value), console.log(w.target.value)
         }, o = () => {
-            h === "230521" ? (s(!1), t("/music")) : h !== "230521" && (s(!0), t(""))
+            h === "123456" ? (s(!1), t("/music")) : h !== "123456" && (s(!0), t(""))
         };
         return a("div", {
             children: [e("div", {
