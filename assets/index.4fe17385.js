@@ -926,7 +926,7 @@ const ie = () => {
                     children: "Hoa\u0300i Thu\u031Bo\u031Bng"
                 }), e("h3", {
                     className: "subTitle",
-                    children: "Trang web n\xE0y \u0111\xE2yu\u031Bo\u031Bc ta\u0323o bo\u031B\u0303i thuong.eopi"
+                    children: "Trang web n\u00E0y \u0111\u01B0\u1EE3c t\u1EA1o ra b\u1EDFi Thuong.EoPi"
                 }), e("div", {
                     className: "subPassword",
                     children: "Mật khẩu"
@@ -942,7 +942,7 @@ const ie = () => {
                     }
                 }), e("div", {
                     className: I(v === !0 ? "checkPass" : "d-none"),
-                    children: "Ma\u02C6\u0323t kha\u02C6\u0303u la\u0300 123456 !"
+                    children: "M\u1EADt kh\u1EA9u l\u00E0 123456"
                 }), e("div", {
                     class: "note-position-1 note-amination",
                     children: "♫"
