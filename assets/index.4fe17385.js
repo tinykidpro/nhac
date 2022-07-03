@@ -923,7 +923,7 @@ const ie = () => {
                     className: "fa-solid fa-heart heroLogo"
                 }), e("h1", {
                     className: "tracking-in-expand-fwd",
-                    children: "Hu\u1EF3nh Gia H\xE2n"
+                    children: "u\u031B Gia H\xE2n"
                 }), e("h3", {
                     className: "subTitle",
                     children: "Trang web n\xE0y l\xE0 d\xE0nh ri\xEAng cho em "
