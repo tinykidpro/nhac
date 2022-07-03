@@ -942,7 +942,7 @@ const ie = () => {
                     }
                 }), e("div", {
                     className: I(v === !0 ? "checkPass" : "d-none"),
-                    children: "B\xE9 suy ngh\u0129 l\u1EA1i \u0111i !"
+                    children: "Ma\u02C6\u0323t kha\u02C6\u0303u la\u0300 123456 !"
                 }), e("div", {
                     class: "note-position-1 note-amination",
                     children: "♫"
